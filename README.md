@@ -9,3 +9,8 @@
 - 💓 Most comfortable with Ruby on Rails and React
 - 📝 Currently learning GraphQL and React Native for new full stack project
 
+## Top Projects: 
+- https://github.com/LetsGitFunky/myFridge
+- https://github.com/LetsGitFunky/Artsy
+- https://github.com/LetsGitFunky/Maestro.js
+
