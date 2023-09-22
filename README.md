@@ -13,10 +13,12 @@
 # myFridge - AI Recipe Generator:
 - https://github.com/LetsGitFunky/myFridge
 - https://myfridge-tkk4.onrender.com/login
-# Artsy - Etsy clone
+
+# Artsy - Etsy clone:
 - https://github.com/LetsGitFunky/Artsy
 - https://artsy-bp61.onrender.com/
-# Maestro - Musical Memory Game
+
+# Maestro - Musical Memory Game:
 - https://github.com/LetsGitFunky/Maestro.js
 - https://letsgitfunky.github.io/Maestro.js/
 
