@@ -7,7 +7,7 @@
 - ⚡ My favorite dinosaur is a Triceratops
 - 💻 My favorite language is JavaScript.
 - 💓 Most comfortable with Ruby on Rails and React
-- 📝 Currently learning GraphQL and React Native for new full stack project
+- 📝 Current obsession: Prompt engineering
 
 ## Top Projects: 
 ### myFridge - AI Recipe Generator:
